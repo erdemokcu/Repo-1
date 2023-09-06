@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9C6EF75E-621F-4AD7-A95E-79C1BFC649B0}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleReadLineInceleme PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleReadLineInceleme/Program.cs">
+    <Files>
+      <File FileName="ConsoleReadLineInceleme/Program.cs" Line="19" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsoleReadLineInceleme" expanded="True">
+            <Node name="ConsoleReadLineInceleme">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

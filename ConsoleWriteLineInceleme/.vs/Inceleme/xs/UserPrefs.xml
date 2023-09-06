@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{CCC0AB09-FCEC-4494-9179-91440BA78E9F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Inceleme PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inceleme/Program.cs">
+    <Files>
+      <File FileName="Inceleme/Program.cs" Line="21" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Inceleme">
+            <Node name="Inceleme">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

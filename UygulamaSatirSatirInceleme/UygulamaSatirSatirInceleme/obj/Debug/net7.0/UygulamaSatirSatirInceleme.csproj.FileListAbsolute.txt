@@ -1,0 +1,15 @@
+/Users/erdemokcu/Documents/GitHub/Repo-1/UygulamaSatirSatirInceleme/UygulamaSatirSatirInceleme/bin/Debug/net7.0/UygulamaSatirSatirInceleme
+/Users/erdemokcu/Documents/GitHub/Repo-1/UygulamaSatirSatirInceleme/UygulamaSatirSatirInceleme/bin/Debug/net7.0/UygulamaSatirSatirInceleme.deps.json
+/Users/erdemokcu/Documents/GitHub/Repo-1/UygulamaSatirSatirInceleme/UygulamaSatirSatirInceleme/bin/Debug/net7.0/UygulamaSatirSatirInceleme.runtimeconfig.json
+/Users/erdemokcu/Documents/GitHub/Repo-1/UygulamaSatirSatirInceleme/UygulamaSatirSatirInceleme/bin/Debug/net7.0/UygulamaSatirSatirInceleme.dll
+/Users/erdemokcu/Documents/GitHub/Repo-1/UygulamaSatirSatirInceleme/UygulamaSatirSatirInceleme/bin/Debug/net7.0/UygulamaSatirSatirInceleme.pdb
+/Users/erdemokcu/Documents/GitHub/Repo-1/UygulamaSatirSatirInceleme/UygulamaSatirSatirInceleme/obj/Debug/net7.0/UygulamaSatirSatirInceleme.csproj.AssemblyReference.cache
+/Users/erdemokcu/Documents/GitHub/Repo-1/UygulamaSatirSatirInceleme/UygulamaSatirSatirInceleme/obj/Debug/net7.0/UygulamaSatirSatirInceleme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erdemokcu/Documents/GitHub/Repo-1/UygulamaSatirSatirInceleme/UygulamaSatirSatirInceleme/obj/Debug/net7.0/UygulamaSatirSatirInceleme.AssemblyInfoInputs.cache
+/Users/erdemokcu/Documents/GitHub/Repo-1/UygulamaSatirSatirInceleme/UygulamaSatirSatirInceleme/obj/Debug/net7.0/UygulamaSatirSatirInceleme.AssemblyInfo.cs
+/Users/erdemokcu/Documents/GitHub/Repo-1/UygulamaSatirSatirInceleme/UygulamaSatirSatirInceleme/obj/Debug/net7.0/UygulamaSatirSatirInceleme.csproj.CoreCompileInputs.cache
+/Users/erdemokcu/Documents/GitHub/Repo-1/UygulamaSatirSatirInceleme/UygulamaSatirSatirInceleme/obj/Debug/net7.0/UygulamaSatirSatirInceleme.dll
+/Users/erdemokcu/Documents/GitHub/Repo-1/UygulamaSatirSatirInceleme/UygulamaSatirSatirInceleme/obj/Debug/net7.0/refint/UygulamaSatirSatirInceleme.dll
+/Users/erdemokcu/Documents/GitHub/Repo-1/UygulamaSatirSatirInceleme/UygulamaSatirSatirInceleme/obj/Debug/net7.0/UygulamaSatirSatirInceleme.pdb
+/Users/erdemokcu/Documents/GitHub/Repo-1/UygulamaSatirSatirInceleme/UygulamaSatirSatirInceleme/obj/Debug/net7.0/UygulamaSatirSatirInceleme.genruntimeconfig.cache
+/Users/erdemokcu/Documents/GitHub/Repo-1/UygulamaSatirSatirInceleme/UygulamaSatirSatirInceleme/obj/Debug/net7.0/ref/UygulamaSatirSatirInceleme.dll

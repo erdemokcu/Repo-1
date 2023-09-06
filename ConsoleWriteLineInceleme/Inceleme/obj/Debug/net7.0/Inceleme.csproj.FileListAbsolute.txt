@@ -1,0 +1,15 @@
+/Users/erdemokcu/Documents/GitHub/Repo-1/Inceleme/Inceleme/bin/Debug/net7.0/Inceleme
+/Users/erdemokcu/Documents/GitHub/Repo-1/Inceleme/Inceleme/bin/Debug/net7.0/Inceleme.deps.json
+/Users/erdemokcu/Documents/GitHub/Repo-1/Inceleme/Inceleme/bin/Debug/net7.0/Inceleme.runtimeconfig.json
+/Users/erdemokcu/Documents/GitHub/Repo-1/Inceleme/Inceleme/bin/Debug/net7.0/Inceleme.dll
+/Users/erdemokcu/Documents/GitHub/Repo-1/Inceleme/Inceleme/bin/Debug/net7.0/Inceleme.pdb
+/Users/erdemokcu/Documents/GitHub/Repo-1/Inceleme/Inceleme/obj/Debug/net7.0/Inceleme.csproj.AssemblyReference.cache
+/Users/erdemokcu/Documents/GitHub/Repo-1/Inceleme/Inceleme/obj/Debug/net7.0/Inceleme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erdemokcu/Documents/GitHub/Repo-1/Inceleme/Inceleme/obj/Debug/net7.0/Inceleme.AssemblyInfoInputs.cache
+/Users/erdemokcu/Documents/GitHub/Repo-1/Inceleme/Inceleme/obj/Debug/net7.0/Inceleme.AssemblyInfo.cs
+/Users/erdemokcu/Documents/GitHub/Repo-1/Inceleme/Inceleme/obj/Debug/net7.0/Inceleme.csproj.CoreCompileInputs.cache
+/Users/erdemokcu/Documents/GitHub/Repo-1/Inceleme/Inceleme/obj/Debug/net7.0/Inceleme.dll
+/Users/erdemokcu/Documents/GitHub/Repo-1/Inceleme/Inceleme/obj/Debug/net7.0/refint/Inceleme.dll
+/Users/erdemokcu/Documents/GitHub/Repo-1/Inceleme/Inceleme/obj/Debug/net7.0/Inceleme.pdb
+/Users/erdemokcu/Documents/GitHub/Repo-1/Inceleme/Inceleme/obj/Debug/net7.0/Inceleme.genruntimeconfig.cache
+/Users/erdemokcu/Documents/GitHub/Repo-1/Inceleme/Inceleme/obj/Debug/net7.0/ref/Inceleme.dll

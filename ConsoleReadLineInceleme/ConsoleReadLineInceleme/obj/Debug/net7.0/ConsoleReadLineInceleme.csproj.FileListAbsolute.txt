@@ -1,0 +1,15 @@
+/Users/erdemokcu/Documents/GitHub/Repo-1/ConsoleReadLineInceleme/ConsoleReadLineInceleme/bin/Debug/net7.0/ConsoleReadLineInceleme
+/Users/erdemokcu/Documents/GitHub/Repo-1/ConsoleReadLineInceleme/ConsoleReadLineInceleme/bin/Debug/net7.0/ConsoleReadLineInceleme.deps.json
+/Users/erdemokcu/Documents/GitHub/Repo-1/ConsoleReadLineInceleme/ConsoleReadLineInceleme/bin/Debug/net7.0/ConsoleReadLineInceleme.runtimeconfig.json
+/Users/erdemokcu/Documents/GitHub/Repo-1/ConsoleReadLineInceleme/ConsoleReadLineInceleme/bin/Debug/net7.0/ConsoleReadLineInceleme.dll
+/Users/erdemokcu/Documents/GitHub/Repo-1/ConsoleReadLineInceleme/ConsoleReadLineInceleme/bin/Debug/net7.0/ConsoleReadLineInceleme.pdb
+/Users/erdemokcu/Documents/GitHub/Repo-1/ConsoleReadLineInceleme/ConsoleReadLineInceleme/obj/Debug/net7.0/ConsoleReadLineInceleme.csproj.AssemblyReference.cache
+/Users/erdemokcu/Documents/GitHub/Repo-1/ConsoleReadLineInceleme/ConsoleReadLineInceleme/obj/Debug/net7.0/ConsoleReadLineInceleme.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erdemokcu/Documents/GitHub/Repo-1/ConsoleReadLineInceleme/ConsoleReadLineInceleme/obj/Debug/net7.0/ConsoleReadLineInceleme.AssemblyInfoInputs.cache
+/Users/erdemokcu/Documents/GitHub/Repo-1/ConsoleReadLineInceleme/ConsoleReadLineInceleme/obj/Debug/net7.0/ConsoleReadLineInceleme.AssemblyInfo.cs
+/Users/erdemokcu/Documents/GitHub/Repo-1/ConsoleReadLineInceleme/ConsoleReadLineInceleme/obj/Debug/net7.0/ConsoleReadLineInceleme.csproj.CoreCompileInputs.cache
+/Users/erdemokcu/Documents/GitHub/Repo-1/ConsoleReadLineInceleme/ConsoleReadLineInceleme/obj/Debug/net7.0/ConsoleReadLineInceleme.dll
+/Users/erdemokcu/Documents/GitHub/Repo-1/ConsoleReadLineInceleme/ConsoleReadLineInceleme/obj/Debug/net7.0/refint/ConsoleReadLineInceleme.dll
+/Users/erdemokcu/Documents/GitHub/Repo-1/ConsoleReadLineInceleme/ConsoleReadLineInceleme/obj/Debug/net7.0/ConsoleReadLineInceleme.pdb
+/Users/erdemokcu/Documents/GitHub/Repo-1/ConsoleReadLineInceleme/ConsoleReadLineInceleme/obj/Debug/net7.0/ConsoleReadLineInceleme.genruntimeconfig.cache
+/Users/erdemokcu/Documents/GitHub/Repo-1/ConsoleReadLineInceleme/ConsoleReadLineInceleme/obj/Debug/net7.0/ref/ConsoleReadLineInceleme.dll
